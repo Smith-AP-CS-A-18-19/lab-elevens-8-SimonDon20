@@ -4,7 +4,7 @@ Follow the instructions provided for Activity 8 in the student lab guide. This i
 
 1. Discuss the similarities and differences between *Elevens*, *Thirteens*, and *Tens*.
 
-    * Answer
+    * They use a similar board and have similar methods of winning, just using different parameters of winning.
 
 2. As discussed previously, all of the instance variables are declared in the `Board` class. But it is the `ElevensBoard` class that “knows” the board size, and the ranks, suits, and point values of the cards in the deck. How do the `Board` instance variables get initialized with the `ElevensBoard` values? What is the exact mechanism?
 
